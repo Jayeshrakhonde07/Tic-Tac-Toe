@@ -60,7 +60,7 @@ h1 {
 }
 
 #winner-text {
-  color: #00ffd5;
+  color: #c6f66c;
   font-size: clamp(1.5rem, 4vw, 2.2rem);
   margin-bottom: 10px;
 }
