@@ -3,7 +3,7 @@ let resetbtn = document.getElementById("reset-btn");
 let msg = document.querySelector(".msg-container");
 let winnerMsg = document.getElementById("winner-text");
 let newBtn = document.getElementById("new-btn");
-let turn0 = true;
+let turn0 = true; 
 
 const winPatterns = [
   [0, 1, 2],
